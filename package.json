@@ -1,0 +1,16 @@
+{
+  "name": "tas-kagit",
+  "version": "1.0.0",
+  "description": "Basit Electron'u kullanarak bir masaüstü uygulaması oluşturma örneği",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPL-3.0-only",
+  "type": "commonjs",
+  "devDependencies": {
+    "electron": "^35.2.1"
+  }
+}
